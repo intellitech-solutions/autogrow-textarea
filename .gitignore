@@ -1,0 +1,7 @@
+### Project Files ###
+/dist/
+/.idea/
+*.iml
+
+### Mac OS ###
+.DS_Store

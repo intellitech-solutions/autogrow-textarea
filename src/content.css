@@ -1,0 +1,4 @@
+textarea {
+    resize: both !important;
+    overflow-y: auto !important;
+}
